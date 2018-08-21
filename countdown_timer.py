@@ -31,7 +31,7 @@ root.configure(background = "black")
 root.bind("x", quit)
 root.after(1000, cant_wait)
 
-endTime = datetime.datetime(2018, 8, 12, 0, 0)
+endTime = datetime.datetime(2018, 12, 19, 0, 0)
 
 fnt = font.Font(family = "Monospace", size = 90, weight = "bold")
 txt = StringVar()
